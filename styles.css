@@ -1,0 +1,20 @@
+p {
+    color: black;
+    transition: color 0.3s ease;
+  }
+
+  h3 {
+    cursor: pointer;
+  }
+
+
+
+
+
+.rainbow-color-0 { color: red; }
+.rainbow-color-1 { color: orange; }
+.rainbow-color-2 { color: yellow; }
+.rainbow-color-3 { color: green; }
+.rainbow-color-4 { color: blue; }
+.rainbow-color-5 { color: indigo; }
+.rainbow-color-6 { color: violet; }
